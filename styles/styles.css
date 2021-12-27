@@ -1,0 +1,25 @@
+.teacher{
+    position: absolute;
+    bottom: 15%;
+    left: 30%;
+    right: 30%;
+}
+
+.paper:hover{
+    color:darkgrey;
+    border: 2px dashed gray;
+    cursor: pointer;
+}
+
+ /* use this for hide and show   */
+#qp{
+    display: block;
+}
+
+#newqp{
+    display: none;
+}
+
+#score{
+    display: none;
+}
