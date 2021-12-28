@@ -14,9 +14,8 @@ Student can see the upcoming tests and attempt the tests and view the marks.
 
 Homepage:
 ![image](https://user-images.githubusercontent.com/49361251/147554512-416096a5-71f7-4a53-8f80-a71f572a7e2d.png)
-![image](https://user-images.githubusercontent.com/49361251/147554806-fe4662c2-96c4-4bd9-a5ab-007db0d5e86a.png)
-![image](https://user-images.githubusercontent.com/49361251/147554835-31c68e7b-98e3-418e-8bae-06b51e54a494.png)
-![image](https://user-images.githubusercontent.com/49361251/147554855-7226b6ab-7198-4a79-9c66-0ea3f4de7485.png)
-![image](https://user-images.githubusercontent.com/49361251/147554876-85069427-00b7-4d4c-893a-54c027bb28bd.png)
-![image](https://user-images.githubusercontent.com/49361251/147554903-5c7ade75-47f1-4d69-97ab-5ee9ff43217f.png)
+![image](https://user-images.githubusercontent.com/49361251/147555275-d74ba57b-2905-4571-8bbd-d041114cb88a.png)
+![image](https://user-images.githubusercontent.com/49361251/147555316-389742d4-04e6-421f-8e43-cd29a953c3cb.png)
+![image](https://user-images.githubusercontent.com/49361251/147555442-639f2b50-fa5b-4657-a050-80279893ff13.png)
+![image](https://user-images.githubusercontent.com/49361251/147555470-fa1b6cce-481f-4dfb-9780-2da1d6ac11dc.png)
 ![image](https://user-images.githubusercontent.com/49361251/147554927-826f84b5-ec73-4e53-9a4f-e9f7842b145c.png)
