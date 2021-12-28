@@ -10,3 +10,7 @@ The role of receptionists is to manage the fees of the student and register a st
 Teacher can create a test that needs to be attempted by the students. The questions for this test will be uploaded by the teacher using a csv file or manually.
 
 Student can see the upcoming tests and attempt the tests and view the marks.
+
+
+Homepage:
+![image](https://user-images.githubusercontent.com/49361251/147554512-416096a5-71f7-4a53-8f80-a71f572a7e2d.png)
